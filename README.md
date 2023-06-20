@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Farouq
 ==============================================================================================================================
 
-Web Application Engineer, AI Enigneer
+Web Application Engineer, AI Engineer
 -------------------------------------
 
 I've been eager to make better myself at problem-solving, game designing, and anything that can benefit me in the software engineering industry. I tend to learn more about computer science and hardware development, I'm trying in the long term to make beneficial ideas with more skills I acquire throughout my journey.
@@ -10,7 +10,7 @@ I've been eager to make better myself at problem-solving, game designing, and an
 * ✉️  You can contact me at [sonarfarouq@gmail.com](mailto:sonarfarouq@gmail.com)
 * 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on interesting projects and great new ideas
-* ⚡  This account I made because I was suspended from my original account Ibra-22KH
+* ⚡  This account was made after my suspension from my original account Ibra-22KH
 
 ### Skills
 
