@@ -10,7 +10,8 @@ I've been eager to make better myself at problem-solving, game designing, and an
 * ✉️  You can contact me at [sonarfarouq@gmail.com](mailto:sonarfarouq@gmail.com)
 * 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on interesting projects and great new ideas
-* ⚡  This account was made after my suspension from my original account Ibra-22KH
+* ⚡  This account was made after my suspension from my original account Ibra-22Kh
+* 📌  “Life isn’t about finding yourself. Life is about creating yourself.” George Bernard Shaw
 
 ### Skills
 
@@ -46,7 +47,6 @@ I've been eager to make better myself at problem-solving, game designing, and an
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
@@ -67,7 +67,4 @@ I've been eager to make better myself at problem-solving, game designing, and an
 
 <a href="http://www.github.com/ibra-kdbra"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ibra-kdbra&stroke=22c55e&background=000000&ring=6366f1&fire=6366f1&currStreakNum=22c55e&currStreakLabel=6366f1&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
 
-<a href="http://www.github.com/ibra-kdbra"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ibra-kdbra&bg_color=000000&color=22c55e&line=facc15&point=22c55e&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/ibra-kdbra" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibra-kdbra&langs_count=10&title_color=6366f1&text_color=22c55e&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
--->
