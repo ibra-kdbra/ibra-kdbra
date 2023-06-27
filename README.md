@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Farouq
 ==============================================================================================================================
 
-Web Application Engineer, AI Engineer
+Web Application Engineer, AI Enigneer
 -------------------------------------
 
 I've been eager to make better myself at problem-solving, game designing, and anything that can benefit me in the software engineering industry. I tend to learn more about computer science and hardware development, I'm trying in the long term to make beneficial ideas with more skills I acquire throughout my journey.
 
-* 🌍  I'm based in Asia
+* 🌍  I'm based in Asia
 * 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on interesting projects and great new ideas
-* 📌  “Life isn’t about finding yourself. Life is about creating yourself.” George Bernard Shaw
+* ⚡  Life isn’t about finding yourself. Life is about creating yourself. ~ George Bernard Shaw
 
 ### Skills
 
@@ -61,8 +61,8 @@ I've been eager to make better myself at problem-solving, game designing, and an
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ibra-kdbra"><img src="https://github-readme-stats.vercel.app/api?username=ibra-kdbra&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=22c55e&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="ibra-kdbra's GitHub stats" /></a>
+<a href="http://www.github.com/ibra-kdbra"><img src="https://github-readme-stats.vercel.app/api?username=ibra-kdbra&show_icons=true&hide=stars,&title_color=64748b&text_color=22c55e&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="ibra-kdbra's GitHub stats" /></a>
 
-<a href="http://www.github.com/ibra-kdbra"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ibra-kdbra&stroke=22c55e&background=000000&ring=6366f1&fire=6366f1&currStreakNum=22c55e&currStreakLabel=6366f1&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
+<a href="http://www.github.com/ibra-kdbra"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ibra-kdbra&stroke=22c55e&background=000000&ring=64748b&fire=64748b&currStreakNum=22c55e&currStreakLabel=64748b&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
 
-<a href="https://github.com/ibra-kdbra" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibra-kdbra&langs_count=10&title_color=6366f1&text_color=22c55e&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ibra-kdbra" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibra-kdbra&langs_count=10&title_color=64748b&text_color=22c55e&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
