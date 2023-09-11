@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ibra
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Farouq
 ==============================================================================================================================
 
 Web Application Engineer
@@ -7,8 +7,8 @@ Web Application Engineer
 I've been eager to make myself better at problem-solving, game designing, and anything that can benefit me in the software engineering world. I tend to learn more about computer science and hardware development, I'm trying in the long term to make beneficial ideas with the skills I will acquire throughout my journey.
 
 * 🌍  Based in Asia
-* 🧠  Learning Machine Learning
-* 🤝  Open to collaborating on interesting projects and great new ideas
+* 🧠  Studying Machine Learning
+* 🤝  Open for collabration on interesting projects and great new ideas
 * ⚡  Life isn’t about finding yourself. Life is about creating yourself. ~ George Bernard Shaw
 
 ### Skills
