@@ -17,17 +17,17 @@
 </p>
 
 # 👋 Hey, I’m [Farouq](https://ibra-kdbra.netlify.app/) 
-
 ## Computer Scientist | Web Application Engineer
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="70%" style="font-size: 16px; line-height: 1.6; vertical-align: top; padding-right: 15px;">
+    <td width="60%" style="font-size: 16px; line-height: 1.6; vertical-align: top; padding-right: 15px;">
     <a href="https://banije.vercel.app/" style="font-size: 20px; font-weight: bold; margin-bottom: 10px;">My Diary, Notes</a>
       <br></br>
-      I’m a problem-solver and creative thinker with a passion for <b>game design</b>, <b>web engineering</b>, and <b>cutting-edge technologies</b>.  
+      I’m a problem-solver and creative thinker with a passion for <b>game design</b>, <b>web engineering</b>, and <b>cutting-edge technologies</b>.<br>
       I love blending <b>software engineering</b> with <b>hardware exploration</b> to bring innovative ideas to life.  
-      My long-term mission: <b>Build impactful, future-ready solutions that inspire and help people.</b>
+      <br>
+      <b>My long-term mission:</b><br> Build impactful, future-ready solutions that inspire and help people.
       <br></br>
       <strong>🌍 Based in:</strong> Asia  
       <br>
@@ -37,7 +37,7 @@
       <br>
       <strong>⚡ Motto:</strong> <em>“Life isn’t about finding yourself. Life is about creating yourself.”</em> ~ George Bernard Shaw
     </td>
-    <td width="60%" style="text-align: center; vertical-align: top;">
+    <td width="40%" style="text-align: center; vertical-align: top;">
       <img src="https://media1.tenor.com/m/YVt_kkGscmMAAAAC/dragon-ball-goku.gif" alt="Coding" width="100%" style="border-radius: 10px;">
     </td>
   </tr>
@@ -48,10 +48,6 @@
 | 🛠 **Languages & Frameworks** |
 | :--- |
 | <img src="https://skillicons.dev/icons?i=c" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=cpp" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=cmake" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=cs" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=java" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=go" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=js" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=ts" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=jquery" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=py" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=php" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=html" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=css" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=react" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=vue" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=nextjs" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=nodejs" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=flask" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=express" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=fastapi" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=firebase" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=babel" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=materialui" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=figma" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=mongodb" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=mysql" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=postgres" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=sqlite" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=redux" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=vite" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=docker" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=ai" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=vim" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=vscode" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=astro" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=svelte" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=nest" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="40" style="vertical-align: middle;"/> |
-
-
-
-
 
 | 💻 **OS & Environments** |
 | :--- |
