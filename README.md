@@ -8,7 +8,7 @@
   <a href="https://discord.com/users/Ibra_kdbra" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>
   <a href="https://github.com/ibra-kdbra" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
   <a href="https://gitlab.com/ibra-kdbra" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" height="40" /></a>
-  <a href="https://www.linkedin.com/in/farouq-khan-a3650a372/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://www.linkedin.com/in/farouq-khan/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
 </p>
 
 <!-- Visitor Counter -->
@@ -16,13 +16,13 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ibra-kdbra&left_color=lime&right_color=gray" alt="Visitor Badge" />
 </p>
 
-# 👋 Hey, I’m [Farouq](https://ibra-kdbra.netlify.app/) 
+# 👋 Hey, I’m [Farouq](https://portfolio.ibrakdbra.me/) 
 ## Computer Scientist | Web Application Engineer
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
     <td width="60%" style="font-size: 16px; line-height: 1.6; vertical-align: top; padding-right: 15px;">
-    <a href="https://banije.vercel.app/" style="font-size: 20px; font-weight: bold; margin-bottom: 10px;">My Diary, Notes</a>
+    <a href="https://diary.ibra.codes/" style="font-size: 20px; font-weight: bold; margin-bottom: 10px;">My Diary, Notes</a>
       <br></br>
       I’m a problem-solver and creative thinker with a passion for <b>game design</b>, <b>web engineering</b>, and <b>cutting-edge technologies</b>.<br>
       I love blending <b>software engineering</b> with <b>hardware exploration</b> to bring innovative ideas to life.  
