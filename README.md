@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://discord.com/users/Ibra_kdbra" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>
   <a href="https://github.com/ibra-kdbra" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-  <a href="https://gitlab.com/ibra-kdbra" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" height="40" /></a>
+  <a href="https://gitlab.com/ibra_kdbra" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" height="40" /></a>
   <a href="https://www.linkedin.com/in/farouq-khan/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
 </p>
 
