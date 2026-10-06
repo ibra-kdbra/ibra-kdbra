@@ -22,11 +22,6 @@
   <a href="https://www.linkedin.com/in/farouq-khan/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" title="LinkedIn" /></a>
 </p>
 
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ibra-kdbra&left_color=lime&right_color=gray" alt="Profile visitors" />
-</p>
-
 <!-- About -->
 <img align="right" width="40%" src="https://media1.tenor.com/m/YVt_kkGscmMAAAAC/dragon-ball-goku.gif" alt="Dragon Ball Goku GIF" />
 
