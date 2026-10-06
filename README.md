@@ -1,70 +1,98 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,14,22,25&height=180&section=header&text=ibra%-kdbra&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,14,22,25&height=200&section=header&text=ibra-kdbra&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%" alt="ibra-kdbra" />
+</p>
+
+<h1 align="center">👋 Hey, I’m <a href="https://portfolio.ibrakdbra.me/">Farouq</a></h1>
+<h3 align="center">Computer Scientist | Web Application Engineer</h3>
+
+<!-- Typing Tagline -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=620&lines=Problem-solver+%26+creative+thinker;Game+design+%C2%B7+Web+engineering+%C2%B7+Cutting-edge+tech;Blending+software+engineering+with+hardware" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=620&lines=Problem-solver+%26+creative+thinker;Game+design+%C2%B7+Web+engineering+%C2%B7+Cutting-edge+tech;Blending+software+engineering+with+hardware" alt="Problem-solver & creative thinker · Game design · Web engineering · Cutting-edge tech · Blending software engineering with hardware" />
+  </picture>
 </p>
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://discord.com/users/Ibra_kdbra" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40" /></a>
-  <a href="https://github.com/ibra-kdbra" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-  <a href="https://gitlab.com/ibra_kdbra" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" height="40" /></a>
-  <a href="https://www.linkedin.com/in/farouq-khan/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://discord.com/users/Ibra_kdbra"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" title="Discord" /></a>&nbsp;
+  <a href="https://github.com/ibra-kdbra"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub" /></a>&nbsp;
+  <a href="https://gitlab.com/ibra_kdbra"><img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab" title="GitLab" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/farouq-khan/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" title="LinkedIn" /></a>
 </p>
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ibra-kdbra&left_color=lime&right_color=gray" alt="Visitor Badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ibra-kdbra&left_color=lime&right_color=gray" alt="Profile visitors" />
 </p>
 
-# 👋 Hey, I’m [Farouq](https://portfolio.ibrakdbra.me/) 
-## Computer Scientist | Web Application Engineer
+<!-- About -->
+<img align="right" width="40%" src="https://media1.tenor.com/m/YVt_kkGscmMAAAAC/dragon-ball-goku.gif" alt="Dragon Ball Goku GIF" />
 
-<table width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td width="60%" style="font-size: 16px; line-height: 1.6; vertical-align: top; padding-right: 15px;">
-    <a href="https://diary.ibra.codes/" style="font-size: 20px; font-weight: bold; margin-bottom: 10px;">My Diary, Notes</a>
-      <br></br>
-      I’m a problem-solver and creative thinker with a passion for <b>game design</b>, <b>web engineering</b>, and <b>cutting-edge technologies</b>.<br>
-      I love blending <b>software engineering</b> with <b>hardware exploration</b> to bring innovative ideas to life.  
-      <br>
-      <b>My long-term mission:</b><br> Build impactful, future-ready solutions that inspire and help people.
-      <br></br>
-      <strong>🌍 Based in:</strong> Asia  
-      <br>
-      <strong>🧠 Currently Learning:</strong> Machine Learning & Data Science  
-      <br>
-      <strong>🤝 Open to Collaborations:</strong> Innovative projects & creative challenges  
-      <br>
-      <strong>⚡ Motto:</strong> <em>“Life isn’t about finding yourself. Life is about creating yourself.”</em> ~ George Bernard Shaw
-    </td>
-    <td width="40%" style="text-align: center; vertical-align: top;">
-      <img src="https://media1.tenor.com/m/YVt_kkGscmMAAAAC/dragon-ball-goku.gif" alt="Coding" width="100%" style="border-radius: 10px;">
-    </td>
-  </tr>
-</table>
-<br>
+### 📓 [My Diary & Notes](https://diary.ibra.codes/)
 
-### 🎯 &nbsp;Skills
-| 🛠 **Languages & Frameworks** |
-| :--- |
-| <img src="https://skillicons.dev/icons?i=c" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=cpp" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=cmake" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=cs" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=java" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=go" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=js" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=ts" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=jquery" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=py" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=php" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=html" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=css" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=react" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=vue" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=nextjs" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=nodejs" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=flask" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=express" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=fastapi" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=firebase" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=babel" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=materialui" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=figma" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=mongodb" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=mysql" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=postgres" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=sqlite" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=redux" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=vite" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=docker" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=ai" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=vim" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=vscode" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=astro" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=svelte" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://skillicons.dev/icons?i=nest" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" height="40" style="vertical-align: middle; margin-right: 6px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="40" style="vertical-align: middle;"/> |
+I’m a problem-solver and creative thinker with a passion for **game design**, **web engineering**, and **cutting-edge technologies**. I love blending **software engineering** with **hardware exploration** to bring innovative ideas to life.
 
-| 💻 **OS & Environments** |
-| :--- |
-| <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" style="margin-right: 6px; vertical-align: middle;"/> <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="Arch Linux" style="margin-right: 6px; vertical-align: middle;"/> <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" style="margin-right: 6px; vertical-align: middle;"/> <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" alt="Linux Mint" style="margin-right: 6px; vertical-align: middle;"/> <img src="https://img.shields.io/badge/NIXOS-5277C3?style=for-the-badge&logo=NixOS&logoColor=white" alt="NixOS" style="margin-right: 6px; vertical-align: middle;"/> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" style="vertical-align: middle;"/>
+**My long-term mission:**<br />
+Build impactful, future-ready solutions that inspire and help people.
 
+🌍 **Based in:** Asia<br />
+🧠 **Currently Learning:** Machine Learning & Data Science<br />
+🤝 **Open to Collaborations:** Innovative projects & creative challenges
+
+> ⚡ **Motto:** *“Life isn’t about finding yourself. Life is about creating yourself.”* ~ George Bernard Shaw
+
+<br clear="right" />
+
+## 🎯 Skills
+
+<h4 align="center">🛠 Languages &amp; Frameworks</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,go,js,ts,py,php,html,css&perline=11" height="40" alt="C, C++, C#, Java, Go, JavaScript, TypeScript, Python, PHP, HTML, CSS" /><br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,svelte,astro,redux,jquery,materialui,vite,babel,p5js&perline=11" height="40" alt="React, Next.js, Vue, Svelte, Astro, Redux, jQuery, Material UI, Vite, Babel, p5.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" height="40" alt="OpenGL" title="OpenGL" /><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nest,flask,fastapi&perline=5" height="40" alt="Node.js, Express, NestJS, Flask, FastAPI" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/socketdotio/white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" height="40" alt="Socket.IO" title="Socket.IO" />
+  </picture>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase&perline=5" height="40" alt="MongoDB, MySQL, PostgreSQL, SQLite, Firebase" /><br />
+  <img src="https://skillicons.dev/icons?i=docker,cmake,vim,vscode,figma,ai&perline=6" height="40" alt="Docker, CMake, Vim, VS Code, Figma, Adobe Illustrator" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" title="Jupyter" />
+</p>
+
+<h4 align="center">💻 OS &amp; Environments</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+  <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint" />
+  <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" alt="NixOS" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+</p>
 
 ## 📊 Stats
+
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ibra-kdbra&show_icons=true&count_private=true&theme=react&hide_border=true" height="165" />
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ibra-kdbra&langs_count=8&layout=compact&theme=react&hide_border=true" height="165" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api?username=ibra-kdbra&show_icons=true&count_private=true&theme=default&hide_border=true" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ibra-kdbra&show_icons=true&count_private=true&theme=react&hide_border=true" height="165" alt="GitHub stats for ibra-kdbra" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ibra-kdbra&langs_count=8&layout=compact&theme=default&hide_border=true" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ibra-kdbra&langs_count=8&layout=compact&theme=react&hide_border=true" height="165" alt="Most used languages" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibra-kdbra&theme=tokyo-night&radius=50&area=true&hide_border=true&hide_title=true" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ibra-kdbra&bg_color=ffffff&color=24292f&line=0969da&point=24292f&area=true&area_color=0969da&radius=50&hide_border=true&hide_title=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibra-kdbra&theme=tokyo-night&radius=50&area=true&hide_border=true&hide_title=true" width="100%" alt="Contribution activity graph" />
+  </picture>
 </p>
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,14,22,25&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3,14,22,25&height=120&section=footer" width="100%" alt="" />
 </p>
