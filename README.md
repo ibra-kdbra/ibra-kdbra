@@ -46,7 +46,7 @@ I build scalable backends, AI-powered products and fast web apps, and I still lo
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,java,php,dart,c,cpp,lua,html,css,nodejs,nestjs,express,laravel,spring,react,nextjs,vue,svelte,astro,flutter,tailwind,threejs,postgres,mysql,mongodb,redis,firebase,supabase,prisma,aws,gcp,azure,docker,kubernetes,linux,arch,nginx,git,github,vercel,figma,postman&perline=11" alt="TypeScript, JavaScript, Python, Java, PHP, Dart, C, C++, Lua, HTML, CSS, Node.js, NestJS, Express, Laravel, Spring Boot, React, Next.js, Vue, Svelte, Astro, Flutter, Tailwind CSS, Three.js, PostgreSQL, MySQL, MongoDB, Redis, Firebase, Supabase, Prisma, AWS, Google Cloud, Azure, Docker, Kubernetes, Linux, Arch Linux, Nginx, Git, GitHub, Vercel, Figma, Postman" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,go,java,cs,php,dart,c,cpp,lua,html,css,nodejs,nestjs,express,flask,laravel,spring,react,nextjs,vue,svelte,astro,jquery,flutter,tailwind,threejs,postgres,mysql,mongodb,redis,firebase,supabase,prisma,aws,gcp,azure,docker,kubernetes,nginx,linux,arch,debian,mint,nix,git,github,vercel,figma,postman&perline=17" alt="TypeScript, JavaScript, Python, Go, Java, C#, PHP, Dart, C, C++, Lua, HTML, CSS, Node.js, NestJS, Express, Flask, Laravel, Spring Boot, React, Next.js, Vue, Svelte, Astro, jQuery, Flutter, Tailwind CSS, Three.js, PostgreSQL, MySQL, MongoDB, Redis, Firebase, Supabase, Prisma, AWS, Google Cloud, Azure, Docker, Kubernetes, Nginx, Linux, Arch Linux, Debian, Linux Mint, NixOS, Git, GitHub, Vercel, Figma, Postman" />
 </p>
 
 <p align="center">
@@ -69,9 +69,9 @@ I build scalable backends, AI-powered products and fast web apps, and I still lo
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-snake/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="profile-snake/snake-light.svg" />
-    <img src="profile-snake/snake-light.svg" width="100%" alt="Snake eating the contribution graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="profile-rhythm/rhythm-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-rhythm/rhythm-light.svg" />
+    <img src="profile-rhythm/rhythm-light.svg" width="100%" alt="Contribution rhythm: total contributions, current and longest streak, best day, contributions by month and daily average by weekday" />
   </picture>
 </p>
 
