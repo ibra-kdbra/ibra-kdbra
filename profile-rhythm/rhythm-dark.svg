@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="352" viewBox="0 0 840 352" role="img" aria-labelledby="title desc">
 <title id="title">Contribution rhythm</title>
-<desc id="desc">21,510 contributions in total. Current streak 1258 days; longest streak 1258 days (Jun 1, 2023 – Nov 9, 2026); best day 320 on Oct 22, 2026. Contributions by month, Nov 2025 – Oct 2026: Nov 250, Dec 444, Jan 451, Feb 784, Mar 490, Apr 334, May 606, Jun 988, Jul 556, Aug 1,813, Sep 1,798, Oct 3,149. Daily average by weekday: Mon 36, Tue 28, Wed 24, Thu 28, Fri 40, Sat 28, Sun 40.</desc>
+<desc id="desc">21,513 contributions in total. Current streak 1259 days; longest streak 1259 days (Jun 1, 2023 – Nov 10, 2026); best day 320 on Oct 22, 2026. Contributions by month, Nov 2025 – Oct 2026: Nov 250, Dec 444, Jan 451, Feb 783, Mar 490, Apr 334, May 606, Jun 988, Jul 556, Aug 1,813, Sep 1,798, Oct 3,149. Daily average by weekday: Mon 36, Tue 28, Wed 24, Thu 28, Fri 40, Sat 28, Sun 40.</desc>
 <style>
 text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
 .heading { font-size: 14px; font-weight: 600; fill: #f0f6fc; }
@@ -25,16 +25,16 @@ text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", 
 <text class="heading" x="40" y="27">Contribution rhythm</text>
 <text class="label" x="824" y="27" text-anchor="end">Updated Nov 10, 2026</text>
 <text class="label" x="24.0" y="84">Total contributions</text>
-<text class="value" x="24.0" y="116">21,510</text>
+<text class="value" x="24.0" y="116">21,513</text>
 <text class="note" x="24.0" y="136">Since Apr 2018</text>
 <path class="grid" d="M205.5 72V140"/>
 <text class="label" x="222.0" y="84">Current streak</text>
-<text class="value" x="222.0" y="116">1,258<tspan class="unit" dx="5">days</tspan></text>
+<text class="value" x="222.0" y="116">1,259<tspan class="unit" dx="5">days</tspan></text>
 <text class="note" x="222.0" y="136">Since Jun 1, 2023</text>
 <path class="grid" d="M403.5 72V140"/>
 <text class="label" x="420.0" y="84">Longest streak</text>
-<text class="value" x="420.0" y="116">1,258<tspan class="unit" dx="5">days</tspan></text>
-<text class="note" x="420.0" y="136">Jun 1, 2023 – Nov 9, 2026</text>
+<text class="value" x="420.0" y="116">1,259<tspan class="unit" dx="5">days</tspan></text>
+<text class="note" x="420.0" y="136">Jun 1, 2023 – Nov 10, 2026</text>
 <path class="grid" d="M601.5 72V140"/>
 <text class="label" x="618.0" y="84">Best day</text>
 <text class="value" x="618.0" y="116">320<tspan class="unit" dx="5">contributions</tspan></text>
