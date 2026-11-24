@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="352" viewBox="0 0 840 352" role="img" aria-labelledby="title desc">
 <title id="title">Contribution rhythm</title>
-<desc id="desc">22,243 contributions in total. Current streak 9 days; longest streak 1260 days (Jun 1, 2023 – Nov 11, 2026); best day 372 on Nov 20, 2026. Contributions by month, Nov 2025 – Oct 2026: Nov 250, Dec 444, Jan 451, Feb 783, Mar 490, Apr 334, May 606, Jun 988, Jul 556, Aug 1,813, Sep 1,798, Oct 3,159. Daily average by weekday: Mon 36, Tue 28, Wed 24, Thu 28, Fri 40, Sat 28, Sun 40.</desc>
+<desc id="desc">24,358 contributions in total. Current streak 1272 days; longest streak 1272 days (Jun 1, 2023 – Nov 23, 2026); best day 406 on Nov 20, 2026. Contributions by month, Nov 2025 – Oct 2026: Nov 250, Dec 444, Jan 451, Feb 783, Mar 490, Apr 334, May 606, Jun 988, Jul 556, Aug 1,813, Sep 1,799, Oct 3,549. Daily average by weekday: Mon 37, Tue 30, Wed 25, Thu 31, Fri 41, Sat 28, Sun 40.</desc>
 <style>
 text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
 .heading { font-size: 14px; font-weight: 600; fill: #f0f6fc; }
@@ -23,80 +23,78 @@ text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", 
 <path d="M0 44.5H840" stroke="#3d444d" clip-path="url(#card)"/>
 <path transform="translate(16 14)" fill="#9198a1" d="M6 2c.306 0 .582.187.696.471L10 10.731l1.304-3.26A.751.751 0 0 1 12 7h3.25a.75.75 0 0 1 0 1.5h-2.742l-1.812 4.528a.751.751 0 0 1-1.392 0L6 4.77 4.696 8.03A.75.75 0 0 1 4 8.5H.75a.75.75 0 0 1 0-1.5h2.742l1.812-4.529A.751.751 0 0 1 6 2Z"/>
 <text class="heading" x="40" y="27">Contribution rhythm</text>
-<text class="label" x="824" y="27" text-anchor="end">Updated Nov 22, 2026</text>
+<text class="label" x="824" y="27" text-anchor="end">Updated Nov 24, 2026</text>
 <text class="label" x="24.0" y="84">Total contributions</text>
-<text class="value" x="24.0" y="116">22,243</text>
+<text class="value" x="24.0" y="116">24,358</text>
 <text class="note" x="24.0" y="136">Since Apr 2018</text>
 <path class="grid" d="M205.5 72V140"/>
 <text class="label" x="222.0" y="84">Current streak</text>
-<text class="value" x="222.0" y="116">9<tspan class="unit" dx="5">days</tspan></text>
-<text class="note" x="222.0" y="136">Since Nov 14, 2026</text>
+<text class="value" x="222.0" y="116">1,272<tspan class="unit" dx="5">days</tspan></text>
+<text class="note" x="222.0" y="136">Since Jun 1, 2023</text>
 <path class="grid" d="M403.5 72V140"/>
 <text class="label" x="420.0" y="84">Longest streak</text>
-<text class="value" x="420.0" y="116">1,260<tspan class="unit" dx="5">days</tspan></text>
-<text class="note" x="420.0" y="136">Jun 1, 2023 – Nov 11, 2026</text>
+<text class="value" x="420.0" y="116">1,272<tspan class="unit" dx="5">days</tspan></text>
+<text class="note" x="420.0" y="136">Jun 1, 2023 – Nov 23, 2026</text>
 <path class="grid" d="M601.5 72V140"/>
 <text class="label" x="618.0" y="84">Best day</text>
-<text class="value" x="618.0" y="116">372<tspan class="unit" dx="5">contributions</tspan></text>
+<text class="value" x="618.0" y="116">406<tspan class="unit" dx="5">contributions</tspan></text>
 <text class="note" x="618.0" y="136">Nov 20, 2026</text>
 <path class="grid" d="M24 164.5H816"/>
 <text class="title" x="24" y="192">By month<tspan class="note" font-weight="400"> · Nov 2025 – Oct 2026</tspan></text>
 <text class="title" x="618.0" y="192">By weekday<tspan class="note" font-weight="400"> · daily average</tspan></text>
 <path class="axis" d="M64.0 310.5H586.0"/>
 <text class="tick" x="56.0" y="314.0" text-anchor="end">0</text>
-<path class="grid" d="M64.0 284.5H586.0"/>
-<text class="tick" x="56.0" y="288.0" text-anchor="end">1,000</text>
-<path class="grid" d="M64.0 258.6H586.0"/>
-<text class="tick" x="56.0" y="262.1" text-anchor="end">2,000</text>
-<path class="grid" d="M64.0 232.6H586.0"/>
-<text class="tick" x="56.0" y="236.1" text-anchor="end">3,000</text>
+<path class="grid" d="M64.0 287.4H586.0"/>
+<text class="tick" x="56.0" y="290.9" text-anchor="end">1,000</text>
+<path class="grid" d="M64.0 264.3H586.0"/>
+<text class="tick" x="56.0" y="267.8" text-anchor="end">2,000</text>
+<path class="grid" d="M64.0 241.2H586.0"/>
+<text class="tick" x="56.0" y="244.7" text-anchor="end">3,000</text>
 <text class="tick" x="85.8" y="328.0" text-anchor="middle">Nov</text>
-<path class="bar" style="animation-delay:0ms" d="M76.8 310.0V307.5A4.0 4.0 0 0 1 80.8 303.5H90.8A4.0 4.0 0 0 1 94.8 307.5V310.0Z"/>
+<path class="bar" style="animation-delay:0ms" d="M76.8 310.0V308.2A4.0 4.0 0 0 1 80.8 304.2H90.8A4.0 4.0 0 0 1 94.8 308.2V310.0Z"/>
 <text class="tick" x="129.2" y="328.0" text-anchor="middle">Dec</text>
-<path class="bar" style="animation-delay:45ms" d="M120.2 310.0V302.5A4.0 4.0 0 0 1 124.2 298.5H134.2A4.0 4.0 0 0 1 138.2 302.5V310.0Z"/>
+<path class="bar" style="animation-delay:45ms" d="M120.2 310.0V303.7A4.0 4.0 0 0 1 124.2 299.7H134.2A4.0 4.0 0 0 1 138.2 303.7V310.0Z"/>
 <text class="tick" x="172.8" y="328.0" text-anchor="middle">Jan</text>
-<path class="bar" style="animation-delay:90ms" d="M163.8 310.0V302.3A4.0 4.0 0 0 1 167.8 298.3H177.8A4.0 4.0 0 0 1 181.8 302.3V310.0Z"/>
+<path class="bar" style="animation-delay:90ms" d="M163.8 310.0V303.6A4.0 4.0 0 0 1 167.8 299.6H177.8A4.0 4.0 0 0 1 181.8 303.6V310.0Z"/>
 <text class="tick" x="216.2" y="328.0" text-anchor="middle">Feb</text>
-<path class="bar" style="animation-delay:135ms" d="M207.2 310.0V293.7A4.0 4.0 0 0 1 211.2 289.7H221.2A4.0 4.0 0 0 1 225.2 293.7V310.0Z"/>
+<path class="bar" style="animation-delay:135ms" d="M207.2 310.0V295.9A4.0 4.0 0 0 1 211.2 291.9H221.2A4.0 4.0 0 0 1 225.2 295.9V310.0Z"/>
 <text class="tick" x="259.8" y="328.0" text-anchor="middle">Mar</text>
-<path class="bar" style="animation-delay:180ms" d="M250.8 310.0V301.3A4.0 4.0 0 0 1 254.8 297.3H264.8A4.0 4.0 0 0 1 268.8 301.3V310.0Z"/>
+<path class="bar" style="animation-delay:180ms" d="M250.8 310.0V302.7A4.0 4.0 0 0 1 254.8 298.7H264.8A4.0 4.0 0 0 1 268.8 302.7V310.0Z"/>
 <text class="tick" x="303.2" y="328.0" text-anchor="middle">Apr</text>
-<path class="bar" style="animation-delay:225ms" d="M294.2 310.0V305.3A4.0 4.0 0 0 1 298.2 301.3H308.2A4.0 4.0 0 0 1 312.2 305.3V310.0Z"/>
+<path class="bar" style="animation-delay:225ms" d="M294.2 310.0V306.3A4.0 4.0 0 0 1 298.2 302.3H308.2A4.0 4.0 0 0 1 312.2 306.3V310.0Z"/>
 <text class="tick" x="346.8" y="328.0" text-anchor="middle">May</text>
-<path class="bar" style="animation-delay:270ms" d="M337.8 310.0V298.3A4.0 4.0 0 0 1 341.8 294.3H351.8A4.0 4.0 0 0 1 355.8 298.3V310.0Z"/>
+<path class="bar" style="animation-delay:270ms" d="M337.8 310.0V300.0A4.0 4.0 0 0 1 341.8 296.0H351.8A4.0 4.0 0 0 1 355.8 300.0V310.0Z"/>
 <text class="tick" x="390.2" y="328.0" text-anchor="middle">Jun</text>
-<path class="bar" style="animation-delay:315ms" d="M381.2 310.0V288.4A4.0 4.0 0 0 1 385.2 284.4H395.2A4.0 4.0 0 0 1 399.2 288.4V310.0Z"/>
+<path class="bar" style="animation-delay:315ms" d="M381.2 310.0V291.2A4.0 4.0 0 0 1 385.2 287.2H395.2A4.0 4.0 0 0 1 399.2 291.2V310.0Z"/>
 <text class="tick" x="433.8" y="328.0" text-anchor="middle">Jul</text>
-<path class="bar" style="animation-delay:360ms" d="M424.8 310.0V299.6A4.0 4.0 0 0 1 428.8 295.6H438.8A4.0 4.0 0 0 1 442.8 299.6V310.0Z"/>
+<path class="bar" style="animation-delay:360ms" d="M424.8 310.0V301.2A4.0 4.0 0 0 1 428.8 297.2H438.8A4.0 4.0 0 0 1 442.8 301.2V310.0Z"/>
 <text class="tick" x="477.2" y="328.0" text-anchor="middle">Aug</text>
-<path class="bar" style="animation-delay:405ms" d="M468.2 310.0V266.9A4.0 4.0 0 0 1 472.2 262.9H482.2A4.0 4.0 0 0 1 486.2 266.9V310.0Z"/>
+<path class="bar" style="animation-delay:405ms" d="M468.2 310.0V272.1A4.0 4.0 0 0 1 472.2 268.1H482.2A4.0 4.0 0 0 1 486.2 272.1V310.0Z"/>
 <text class="tick" x="520.8" y="328.0" text-anchor="middle">Sep</text>
-<path class="bar" style="animation-delay:450ms" d="M511.8 310.0V267.3A4.0 4.0 0 0 1 515.8 263.3H525.8A4.0 4.0 0 0 1 529.8 267.3V310.0Z"/>
+<path class="bar" style="animation-delay:450ms" d="M511.8 310.0V272.4A4.0 4.0 0 0 1 515.8 268.4H525.8A4.0 4.0 0 0 1 529.8 272.4V310.0Z"/>
 <text class="tick" x="564.2" y="328.0" text-anchor="middle">Oct</text>
 <path class="bar" style="animation-delay:495ms" d="M555.2 310.0V232.0A4.0 4.0 0 0 1 559.2 228.0H569.2A4.0 4.0 0 0 1 573.2 232.0V310.0Z"/>
-<text class="peak" x="564.2" y="221.0" text-anchor="middle">3,159</text>
+<text class="peak" x="564.2" y="221.0" text-anchor="middle">3,549</text>
 <path class="axis" d="M642.0 310.5H816.0"/>
 <text class="tick" x="634.0" y="314.0" text-anchor="end">0</text>
-<path class="grid" d="M642.0 289.9H816.0"/>
-<text class="tick" x="634.0" y="293.4" text-anchor="end">10</text>
-<path class="grid" d="M642.0 269.3H816.0"/>
-<text class="tick" x="634.0" y="272.8" text-anchor="end">20</text>
-<path class="grid" d="M642.0 248.8H816.0"/>
-<text class="tick" x="634.0" y="252.3" text-anchor="end">30</text>
+<path class="grid" d="M642.0 270.5H816.0"/>
+<text class="tick" x="634.0" y="274.0" text-anchor="end">20</text>
+<path class="grid" d="M642.0 230.4H816.0"/>
+<text class="tick" x="634.0" y="233.9" text-anchor="end">40</text>
 <text class="tick" x="654.4" y="328.0" text-anchor="middle">Mo</text>
-<path class="bar" style="animation-delay:200ms" d="M647.4 310.0V240.3A4.0 4.0 0 0 1 651.4 236.3H657.4A4.0 4.0 0 0 1 661.4 240.3V310.0Z"/>
+<path class="bar" style="animation-delay:200ms" d="M647.4 310.0V239.9A4.0 4.0 0 0 1 651.4 235.9H657.4A4.0 4.0 0 0 1 661.4 239.9V310.0Z"/>
 <text class="tick" x="679.3" y="328.0" text-anchor="middle">Tu</text>
-<path class="bar" style="animation-delay:245ms" d="M672.3 310.0V255.6A4.0 4.0 0 0 1 676.3 251.6H682.3A4.0 4.0 0 0 1 686.3 255.6V310.0Z"/>
+<path class="bar" style="animation-delay:245ms" d="M672.3 310.0V254.3A4.0 4.0 0 0 1 676.3 250.3H682.3A4.0 4.0 0 0 1 686.3 254.3V310.0Z"/>
 <text class="tick" x="704.1" y="328.0" text-anchor="middle">We</text>
-<path class="bar" style="animation-delay:290ms" d="M697.1 310.0V263.9A4.0 4.0 0 0 1 701.1 259.9H707.1A4.0 4.0 0 0 1 711.1 263.9V310.0Z"/>
+<path class="bar" style="animation-delay:290ms" d="M697.1 310.0V264.0A4.0 4.0 0 0 1 701.1 260.0H707.1A4.0 4.0 0 0 1 711.1 264.0V310.0Z"/>
 <text class="tick" x="729.0" y="328.0" text-anchor="middle">Th</text>
-<path class="bar" style="animation-delay:335ms" d="M722.0 310.0V256.3A4.0 4.0 0 0 1 726.0 252.3H732.0A4.0 4.0 0 0 1 736.0 256.3V310.0Z"/>
+<path class="bar" style="animation-delay:335ms" d="M722.0 310.0V251.7A4.0 4.0 0 0 1 726.0 247.7H732.0A4.0 4.0 0 0 1 736.0 251.7V310.0Z"/>
 <text class="tick" x="753.9" y="328.0" text-anchor="middle">Fr</text>
 <path class="bar" style="animation-delay:380ms" d="M746.9 310.0V232.0A4.0 4.0 0 0 1 750.9 228.0H756.9A4.0 4.0 0 0 1 760.9 232.0V310.0Z"/>
-<text class="peak" x="753.9" y="221.0" text-anchor="middle">40</text>
+<text class="peak" x="753.9" y="221.0" text-anchor="middle">41</text>
 <text class="tick" x="778.7" y="328.0" text-anchor="middle">Sa</text>
-<path class="bar" style="animation-delay:425ms" d="M771.7 310.0V257.1A4.0 4.0 0 0 1 775.7 253.1H781.7A4.0 4.0 0 0 1 785.7 257.1V310.0Z"/>
+<path class="bar" style="animation-delay:425ms" d="M771.7 310.0V258.6A4.0 4.0 0 0 1 775.7 254.6H781.7A4.0 4.0 0 0 1 785.7 258.6V310.0Z"/>
 <text class="tick" x="803.6" y="328.0" text-anchor="middle">Su</text>
-<path class="bar" style="animation-delay:470ms" d="M796.6 310.0V232.0A4.0 4.0 0 0 1 800.6 228.0H806.6A4.0 4.0 0 0 1 810.6 232.0V310.0Z"/>
+<path class="bar" style="animation-delay:470ms" d="M796.6 310.0V234.3A4.0 4.0 0 0 1 800.6 230.3H806.6A4.0 4.0 0 0 1 810.6 234.3V310.0Z"/>
 <rect x="0.5" y="0.5" width="839" height="351" rx="6" fill="none" stroke="#3d444d"/>
 </svg>
